@@ -6,6 +6,7 @@
   - logout, then login
 
 - sudo apt-get install git
+- sudo apt-get install vim
 - setup SSH keys w Github
   - ssh-keygen -t rsa -b 4096 -C "thomaschriskelly@gmail.com"
   - register public key
