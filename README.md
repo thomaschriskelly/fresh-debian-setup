@@ -8,6 +8,7 @@
 - sudo apt-get install vim
 - sudo apt-get install python-pip
 - sudo apt-get install python3-pip
+- sudo apt-get install python3-venv
 - install vundle
   - git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
   - vim +PluginInstall +qall
