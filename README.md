@@ -22,3 +22,4 @@
 - symlink .rc files
   - ln -sf ~/repos/vimrc/.vimrc ~/.vimrc
   - ln -sf ~/repos/vimrc/.bashrc ~/.bashrc
+- install nvm https://github.com/creationix/nvm#installation
