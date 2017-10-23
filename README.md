@@ -10,6 +10,7 @@
 - sudo apt-get install python3-pip
 - sudo apt-get install python3-venv
 - sudo apt-get install gmtp
+- sudo apt-get install laptop-mode-tools
 - install vundle
   - git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
   - vim +PluginInstall +qall
